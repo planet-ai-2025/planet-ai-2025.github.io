@@ -1,0 +1,33 @@
+---
+layout: default
+---
+<section class="pt-3 pb-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 pb-5">
+                <div class="page-head py-3">           
+                    <div class="page-title">{{ page.title | escape }}</div>
+                </div>
+                <div class="page-body">
+                    {{content}}
+                </div>
+                <div class="post-info py-3">
+                    <span class="post-meta">
+                        
+                        {% if page.tags.size >= 1 %}
+					        Tags: <span class="post-tag">
+						{% for tag in page.tags %}
+						<a href="{{ site.baseurl }}/tag/{{tag}}" class="tag">{{ tag }}</a>
+						{% endfor %}
+                            </span>
+					    {% endif %}
+                    </span>                               
+                </div>
+                <div class="post-share">
+                    {% include share.html %}
+                </div>           
+            </div>
+        </div>
+    </div>
+</section>
+

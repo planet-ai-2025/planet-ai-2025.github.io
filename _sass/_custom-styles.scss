@@ -1,0 +1,30 @@
+.container{max-width: 1000px;}
+body{background: #fff; color:#000; font-family: sans-serif;font-size: 16px;}
+.bg-light{border-bottom: 1px solid #eee; background-color:#fff !important;}
+.text-muted {font-size: 13px;}
+
+h1{font-size: 24px; margin-top: 0.5rem}
+h2{font-size: 20px; margin-top: 0.5rem}
+h3{font-size: 18px; margin-top: 0.5rem}
+
+.highlight{background:#fff8f9; }
+
+.page-title{font-size: 28px; margin-top: 0.5rem; margin-bottom: 0.5rem}
+
+.navbar-light .navbar-brand{font-size: 16px; font-weight: 700;}
+
+.card-body{ padding:1rem 0;}
+.card{border: none;}
+.card-img-top{box-shadow: 0 9px 18px rgba(0,0,0,0.25);}
+.card-img-top{border-top-left-radius: 0; border-top-right-radius:0;}
+
+a {text-decoration: none;}
+a:hover {text-decoration: underline;}
+.post-date{font-size: 13px; color:#999; display: none; }
+.card-title{font-size: 16px; color:#000; padding-top: 12px;}
+.article-tag{font-size: 13px; color:#777;}
+.tag{font-size: 13px; color:#000; text-decoration: underline; }
+.tags{font-size: 13px; color:#444; padding:6px; border:1px solid #aeaeae; margin-right:6px;}
+
+
+

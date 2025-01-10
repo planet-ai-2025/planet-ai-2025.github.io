@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Planet+AI</title>
+    <description>combining creativity with technology</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 10 Jan 2025 09:33:04 -0500</pubDate>
+    <lastBuildDate>Fri, 10 Jan 2025 09:33:04 -0500</lastBuildDate>
+    <generator>Jekyll v4.3.4</generator>
+    
+      <item>
+        <title>Planet+AI Summer 2024</title>
+        <description>&lt;h1 id=&quot;week-1&quot;&gt;Week 1&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;When&lt;/strong&gt;: June 3- June 7, 9am-4pm with one-hour break from 11am to 12pm &lt;br /&gt;
+&lt;strong&gt;Who&lt;/strong&gt;: Ping Wang, Justin Hardin, Ben Alexander &lt;br /&gt;
+&lt;strong&gt;What&lt;/strong&gt;: Planetary explorations and planetary images, Python basics with matrix arithmetic, linear transformations, and image processing, How to use AI tools to creat artworks, digital stories and apps &lt;br /&gt;
+&lt;strong&gt;Textbook&lt;/strong&gt;: Python in high school - Algorithms and mathematics by Arnaud Bodin&lt;/p&gt;
+
+&lt;p&gt;A few things for Week 1:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/16N0taMZJaeUL_abBs8yafYxmXuTPiCcR/edit?usp=sharing&amp;amp;ouid=113200546422009820244&amp;amp;rtpof=true&amp;amp;sd=true&quot; target=&quot;_blank&quot;&gt;Introduction to Mars&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1v8KD4lJMJ2SAg3KCXOlmO_AZm8JFvnzr/edit?usp=sharing&amp;amp;ouid=113200546422009820244&amp;amp;rtpof=true&amp;amp;sd=true&quot; target=&quot;_blank&quot;&gt;Satellite Imagery and Remote Sensing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1uVP53b18kz0o5qgnamVnsCAuvId66VO1/edit?usp=sharing&amp;amp;ouid=113200546422009820244&amp;amp;rtpof=true&amp;amp;sd=true&quot; target=&quot;_blank&quot;&gt;Mars Missions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1fThWJOfRXVR9lWQurXBQHhwT24mxWCfo/edit?usp=sharing&amp;amp;ouid=113200546422009820244&amp;amp;rtpof=true&amp;amp;sd=true&quot; target=&quot;_blank&quot;&gt;HiRISE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1Ayj-RTJkuq_cMFqoxL6PRN2rxhvxu6x5/edit?usp=sharing&amp;amp;ouid=113200546422009820244&amp;amp;rtpof=true&amp;amp;sd=true&quot; target=&quot;_blank&quot;&gt;Element Maps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1yddAF3uSQyCpR52JI_LuKijIvK4Hh7IM/edit?usp=sharing&amp;amp;ouid=113200546422009820244&amp;amp;rtpof=true&amp;amp;sd=true&quot; target=&quot;_blank&quot;&gt;Materials on the Moon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1BQdiR-2NIUy1g0kYHBurzK5S3e_RbYuv/edit?usp=sharing&amp;amp;ouid=113200546422009820244&amp;amp;rtpof=true&amp;amp;sd=true&quot; target=&quot;_blank&quot;&gt;Introduction to the Moon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1s5WKgSw4I4Mh0rgvZsLRnyVYmvVCb5V0/edit?usp=sharing&amp;amp;ouid=113200546422009820244&amp;amp;rtpof=true&amp;amp;sd=true&quot; target=&quot;_blank&quot;&gt;Missions to the Moon (1)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1fOxpgRKGhrwY0MElgEYZK_MJcLV-gX6S/edit?usp=sharing&amp;amp;ouid=113200546422009820244&amp;amp;rtpof=true&amp;amp;sd=true&quot; target=&quot;_blank&quot;&gt;Missions to the Moon (2)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1ABEzKE8eAz5aNKeuw9we2lr1-1ImCQO6/edit?usp=sharing&amp;amp;ouid=113200546422009820244&amp;amp;rtpof=true&amp;amp;sd=true&quot; target=&quot;_blank&quot;&gt;Missions to the Moon (3)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/planet-ai-2023/9bf5bb954fc2b7bd81cff2568ae25fcd&quot; target=&quot;_blank&quot;&gt;01-basics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/1l-cFjiHUmPhF_p28RDp60_vjjDyfbW5FnJ_qiMNmzzw/edit?usp=sharing&quot; target=&quot;_blank&quot;&gt;01-exercises&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1Z52po3iWAU3jQh-vscchYn6_GsqiiMrT/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;02-exercises&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/planet-ai-2023/592fd6bb27b73d439c6ad9ccfe9d74df&quot; target=&quot;_blank&quot;&gt;02-matrix-images&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/planet-ai-2023/929233d0677c41250d4d4f78e4d47a0d&quot; target=&quot;_blank&quot;&gt;02-for-loops-functions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/planet-ai-2023/060e4c540573f2ea1002fdb0b48d5407&quot; target=&quot;_blank&quot;&gt;03-dictionaries&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/planet-ai-2023/8c345c386484b7a5d8337c6d7083a07a&quot; target=&quot;_blank&quot;&gt;03-plots&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/planet-ai-2023/b6739607d4d01aceb93c68012f900668&quot; target=&quot;_blank&quot;&gt;04-tuples&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/1D77UxboUtroG3J1APK84uA3uBjwH3408QdnRxLY4-y0/edit?usp=sharing&quot; target=&quot;_blank&quot;&gt;04-rotation-matrix&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/resources/lecture-11-learning-identification-trees-disorder/&quot; target=&quot;_blank&quot;&gt;04-Patrick Winston on Decision Tree&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/planet-ai-2023/3af22f24ffe4294deb22e78e74631079&quot; target=&quot;_blank&quot;&gt;04-pandas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/planet-ai-2023/7436e303935fa84e97207c17f61a5a4e&quot; target=&quot;_blank&quot;&gt;05-json&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/planet-ai-2023/c0788ce0a08867467aed65301a893954&quot; target=&quot;_blank&quot;&gt;05-html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Colabs for you to try:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/planet-ai-2023/182437bbe972b9a24d5e0754ba308b54&quot; target=&quot;_blank&quot;&gt;color-transfer&lt;/a&gt; &lt;a href=&quot;https://www.researchgate.net/publication/220518215_Color_Transfer_between_Images&quot; target=&quot;_blank&quot;&gt;[article]&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/planet-ai-2023/0d8e8c6c6a7c4cdebd6a1808010f487c&quot; target=&quot;_blank&quot;&gt;style-transfer&lt;/a&gt; &lt;a href=&quot;https://arxiv.org/abs/1508.06576&quot; target=&quot;_blank&quot;&gt;[article]&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast_stable_diffusion_AUTOMATIC1111.ipynb&quot; target=&quot;_blank&quot;&gt;stable-diffusion-webui&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/planet-ai-2023/21088a36d42b8c1e71fa179440ef1d63&quot; target=&quot;_blank&quot;&gt;chatbot&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;week-2&quot;&gt;Week 2&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;When&lt;/strong&gt;: June 10- June 14, 9am-4pm with one-hour break from 11am to 12pm  &lt;br /&gt;
+&lt;strong&gt;Who&lt;/strong&gt;: Layal Bou Hamdan &lt;br /&gt;
+&lt;strong&gt;What&lt;/strong&gt;: Math for AI/ML for high school students&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1eE3H_vzdnA5P8lCcxGUBw6XjJ98IhJFE?usp=sharing&quot; target=&quot;_blank&quot;&gt;day1.ipynb&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1nQHdeh8w7cc60titt-kSoqiugQerFCp7?usp=sharing&quot; target=&quot;_blank&quot;&gt;day1_practice.ipynb&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1hhH33CZp3dgHAFeTS6lc9fJFwSsof9VC?usp=sharing&quot; target=&quot;_blank&quot;&gt;day2.ipynb&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1wDTuJXsKxHjTU5sqG5kyS6PZsrpEQtsO?usp=sharing&quot; target=&quot;_blank&quot;&gt;day2_practice.ipynb&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1e-uZl455Ru4N3IFaaHAxEhbmeI6-ClCK?usp=sharing&quot; target=&quot;_blank&quot;&gt;day3.ipynb&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/15TQ1ua6LGyX6seWC4BymVVNHVEUZ3esF?usp=sharing&quot; target=&quot;_blank&quot;&gt;day3_practice.ipynb&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1ISaBtwW1zuXITisrY38VrdlOJ3oDDGAN?usp=sharing&quot; target=&quot;_blank&quot;&gt;day4.ipynb&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1OvnHEfIJ0uNq65P44sVLy2kbMcNXTDgO?usp=sharing&quot; target=&quot;_blank&quot;&gt;day4_practice.ipynb&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://colab.research.google.com/drive/10IiJY1MinExVckd6db9ApM3eveuYSzDN?usp=sharing&quot; target=&quot;_blank&quot;&gt;day5.ipynb&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1g9J7MIwEoX2XK7RoMrf0L6PlscVgvbwb?usp=sharing&quot; target=&quot;_blank&quot;&gt;day5_practice.ipynb&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;week-3&quot;&gt;Week 3&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;When&lt;/strong&gt;: June 17- June 21, 9am-4pm with one-hour break from 11am to 12pm &lt;br /&gt;
+&lt;strong&gt;Who&lt;/strong&gt;: Pengyu Hong, Zhengyang Zhou &lt;br /&gt;
+&lt;strong&gt;What&lt;/strong&gt;: Convolutional Neural Networks, and other topics&lt;/p&gt;
+
+&lt;p&gt;AI/ML&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1kPPTRz3n9AvP1uc_hbwsZ45v1Ijf9ObU/edit?usp=sharing&amp;amp;ouid=113200546422009820244&amp;amp;rtpof=true&amp;amp;sd=true&quot; target=&quot;_blank&quot;&gt;Introduction to AI/ML&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1til4FIY5skfI1pHzeF9Cnuh-URUbL9rk/edit?usp=sharing&amp;amp;ouid=113200546422009820244&amp;amp;rtpof=true&amp;amp;sd=true&quot; target=&quot;_blank&quot;&gt;Main types of ML&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1gyPZGIgPM4BpEY3lgVQJs34K9ifnBZg-?usp=sharing&quot; target=&quot;_blank&quot;&gt;KMeans_colab&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1p7jjLCmdkk1k58abyT46ia8ayLzhGl4e?usp=sharing&quot; target=&quot;_blank&quot;&gt;Linear_regression_colab&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1XHVM2H9bn3MOsLEGFIFgtNVMd6Z4XHhM/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;KMeans_data1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1XPuNZIp0RRHgz5rxDk673sfR_skTvbPY/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;KMeans_data2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/14z308tP_oeB1kknQz4V-ArVBgQAwnFcX/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;customer_data&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;MLP&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1M7l7onN1-AIjoJr1pzfFKUfJ39ZlAumb?usp=sharing&quot; target=&quot;_blank&quot;&gt;hand_written_digit_recognition_colab&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://drive.google.com/drive/folders/1ujKkrC7xY0-lXp8ij8smXPTiZ_J05QEM?usp=sharing&quot; target=&quot;_blank&quot;&gt;style_transfer&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Convolutional Neural Netowrks&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1mpueGrEpn2ObBCvbd440sa2i90LYzlcC/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;convolution_colab&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1TXZf_Ezr2XUTk6KyjbLqK8IkmldyLpk8/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;hand_written_digit_recognition_with_cnn_colab&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/16XLdVxbMfw99TPbrhWT5QifYPeaLax6T/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;simplified_butterfly_recognition_colab&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1FvL-rBDXb1oxktmi0wxpC19i1j44ZoN3/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;butterfly_recognition_colab&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://marcoqin.com/visualize_neural_net/cnn/2dc.html&quot; target=&quot;_blank&quot;&gt;an interative demo for practice&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Vision Transformer&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1TepruqK2TqUUaiTjVrSIgVeyNuBcGTfp/edit?usp=sharing&amp;amp;ouid=113200546422009820244&amp;amp;rtpof=true&amp;amp;sd=true&quot; target=&quot;_blank&quot;&gt;vision_transformer_slides&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1IGkp9I8N9dmQsEKPEX6r5FarSEkLtpAj/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;word_embedding_colab&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/14QItvUS9RHfHLMjjnCl6GCaXrzXK4pYH/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;simplified_vit_butterfly_recognition_colab&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/16YQX5yjUyx3KVHL67lw5GqDGlOSmBi9w/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;vit_butterfly_recognition_colab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Diffusion Models&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1cnQkFpSMNtWkA-w0w7PhkyW3Gz3389A0/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;diffusers_colab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;More reading materials:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aiindex.stanford.edu/report/&quot; target=&quot;_blank&quot;&gt;stanford AI index annual report&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1U1pv4beoy7QAochnvJqEPELP0S7y4MGw/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;stanford AI index annual report and more&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 01 Jun 2024 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2024/06/01/summer-2024/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/06/01/summer-2024/</guid>
+        
+        <category>AI</category>
+        
+        <category>summer2024</category>
+        
+        <category>projects</category>
+        
+        <category>planet</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Colab Tutorial</title>
+        <description>&lt;p&gt;Google Colab is a free Jupyter notebook environment that runs in the cloud. You can use Google Colab from your browser so you don’t have to install anything on your own computer. With Google Colab, you can access Google’s computing resources, write and execture code, save and share.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Login your Gmail account&lt;/strong&gt; &lt;br /&gt;
+  &lt;br /&gt;
+&lt;strong&gt;2. Go to the url link:&lt;/strong&gt; 
+&lt;a href=&quot;https://colab.research.google.com/&quot; target=&quot;_blank&quot;&gt;https://colab.research.google.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Top pane&lt;/strong&gt;&lt;br /&gt;
+   &lt;br /&gt;
+&lt;img width=&quot;900&quot; src=&quot;/assets/images/top_pane_colab.png&quot; class=&quot;img-fluid&quot; /&gt;
+ &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Top menu: You can see the Colab logo from the top left, and then you can find the top menu, including File, Edit, View, Insert, Runtime, etc.&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;Share&lt;/code&gt;: On the top right, the &lt;code&gt;Share&lt;/code&gt; button gives you the option of creating a shareable link that you can share with others.&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;+ Code&lt;/code&gt;: Under the top menu, the &lt;code&gt;+ Code&lt;/code&gt; will let you add more code cells.&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;+ Text&lt;/code&gt;: will let you add more text cells.&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;Copy to Drive&lt;/code&gt;: allows you to copy this Colab notebook into your Colabe Notebook directory in your Google Drive.&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;Connect&lt;/code&gt;: will let you connet this Colab notebook to the runtime.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;4. Left pane&lt;/strong&gt;
+   &lt;br /&gt;
+&lt;img width=&quot;30&quot; src=&quot;/assets/images/left_pane_1.png&quot; class=&quot;img-fluid&quot; /&gt;
+ &lt;/p&gt;
+
+&lt;p&gt;Click &lt;code&gt;Files&lt;/code&gt;, and it will expand the left pane.&lt;/p&gt;
+
+&lt;p&gt;   &lt;br /&gt;
+&lt;img width=&quot;400&quot; src=&quot;/assets/images/left_pane_2.png&quot; class=&quot;img-fluid&quot; /&gt;
+ &lt;/p&gt;
+
+&lt;p&gt;Then you can browse the directory structure on the left file-exlorer pane.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Upload: You can right click (your mouse) and choose &lt;code&gt;Upload&lt;/code&gt; in order to upload files to the Colab. Since Colab notebook is hosted on Google’s cloud servers, there’s no direct access to files on your local computer. Or you can click the three dots visible when your mouse hovers above the directory and then you can select the “Upload” option.&lt;/li&gt;
+  &lt;li&gt;Download: Hover your mouse above the filename you want to download, and you will see three dots. Click on the three dots and select the &lt;code&gt;Download&lt;/code&gt; option.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;5. Mount your Google Drive to Colab&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Executing the following code to mount your Google Drive to Colab, and click “agree”. &lt;br /&gt;
+&lt;code&gt;from google.colab import drive&lt;/code&gt; &lt;br /&gt;
+&lt;code&gt;drive.mount(&apos;/content/gdrive&apos;)&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;6. Use the Bash Commands&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;You can use most of the bash commands with a &lt;code&gt;!&lt;/code&gt; added in front of the command.&lt;/li&gt;
+  &lt;li&gt;You can also use magic commands with &lt;code&gt;%&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Use &lt;code&gt;%&lt;/code&gt; instead of &lt;code&gt;!&lt;/code&gt; for cd (change directory) command&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;7. Use GPUs on Colab&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;If you use the free GPU, click and choose &lt;code&gt;Runtime&lt;/code&gt; -&amp;gt; &lt;code&gt;Change Runtime Type&lt;/code&gt; -&amp;gt; &lt;code&gt;Hardware accelerator&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If you use the paid version of the GPUs, click and choose &lt;code&gt;Runtime&lt;/code&gt; -&amp;gt; &lt;code&gt;Change Runtime Type&lt;/code&gt;, then you will choose the following:
+&lt;img width=&quot;350&quot; src=&quot;/assets/images/gpu_colab.png&quot; class=&quot;img-fluid&quot; alt=&quot;Colab GPUs&quot; /&gt; &lt;br /&gt;
+Click &lt;code&gt;Save&lt;/code&gt;.
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Check GPUs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img width=&quot;700&quot; src=&quot;/assets/images/check_gpu.png&quot; class=&quot;img-fluid&quot; alt=&quot;GPUs&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 01 Jun 2024 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2024/06/01/colab-tutorial/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/06/01/colab-tutorial/</guid>
+        
+        <category>AI</category>
+        
+        <category>tutorials</category>
+        
+        <category>resources</category>
+        
+        <category>summer2024</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Planet+AI Project Tracking</title>
+        <description>&lt;p&gt;This article will be updated.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;July 31, 2024, Alice Zou led her team in a waterbot project and submitted an abstract to AGU2024, titled &lt;em&gt;Exploring Trace Element Fingerprinting in Water Samples with Artificial Intelligence&lt;/em&gt;. The lab work was done in the UTK’s High Temperature geoCHemistry (HiTeCH) lab by using the state-of-the-art inductively coupled plasma mass spectrometry (ICP-MS) technique for trace element abundances. The team was mentored by Ping Wang, Dr. Shichun Huang and Dr. Brian Daniel Duggan.&lt;/li&gt;
+  &lt;li&gt;June, 2024, Alice Zou, a program alunmni living in San Jose, led their DAISY group and submitted their project to NeurIPS2024.&lt;/li&gt;
+  &lt;li&gt;June 3- June 21, Planet+AI Summer 2024, 47 high school students completed the program. The team was mentored by Ping Wang.&lt;/li&gt;
+  &lt;li&gt;April 25, 2024, We had a group meeting on the Planet+AI Summer Program.&lt;/li&gt;
+  &lt;li&gt;April 2, 2024, Ping Wang, Professor Kwon from the Law School at UTK, and Principals at Austin East had a meeting together discussing how to recruit students from Austin East High.&lt;/li&gt;
+  &lt;li&gt;March-May, 2024, With the support the Knox County School District, our team have been recruiting high school students for our Planet+AI Summer Program. Ping Wang and Melody Hawkins has been talking about recruiting minority students, making plans, and building strageties since September, 2023.&lt;/li&gt;
+  &lt;li&gt;On March 22, 2024, Ping Wang and colleagues, including Dr. Guoyu Lu, Dr. Weiyan Shi, Dr. Anyi Rao, organized the online Symposium on AI Technologies and Their Implications.&lt;/li&gt;
+  &lt;li&gt;During March 11-15, 2024, Ping Wang presented research at LPSC in Houston.&lt;/li&gt;
+  &lt;li&gt;Our Planet+AI summer program was approved by the Programs for Minors Office at the UTK on March 5, 2024!&lt;/li&gt;
+  &lt;li&gt;During March, Ping Wang did outreach in the Art School, UTK by working with Professor Koichi Yamamoto on visual anagrams.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;The Moon Rocks&lt;/em&gt; by our program alumni is on exhibit at the American Museum of Science and Energy (it starts from March 3, 2024)!&lt;/li&gt;
+  &lt;li&gt;Ping Wang et al. were invited for in-person poster presentation at LPSC 2024 in Feb 2024.&lt;/li&gt;
+  &lt;li&gt;Ping Wang attended the Canada Consulate Luncheon on the Impact of Technology and AI on Public Engagement in Atlanta on Feb 6, 2024.&lt;/li&gt;
+  &lt;li&gt;Ping Wang published, in Jan 2024, the multimodal Alluvial Fans on Mars dataset for AI outreach and research, which will be introduced to participating students in the summer course.&lt;/li&gt;
+  &lt;li&gt;Ping Wang with colleagues submitted to an abstract &lt;em&gt;EXPERIMENTING WITH EMERGING ARTIFICIAL INTELLIGENCE AND AUGMENTED REALITY TECHNOLOGIES UTILIZING PLANETARY SCIENCE DATA FOR STEM EDUCATION AND PUBLIC OUTREACH&lt;/em&gt; to LPSC in January 2024.&lt;/li&gt;
+  &lt;li&gt;Dr. Maroulas and his PhD student Layal Bou Hamdan started to prepare the math component of the summer curriculum in January 2024.&lt;/li&gt;
+  &lt;li&gt;Ping Wang submitted the IRB for approval on Jan 3, 2024.&lt;/li&gt;
+  &lt;li&gt;Ping Wang sent student team’s From Hawaii to the Moon work to the American Museum of Science and Energy in Dec 2023.&lt;/li&gt;
+  &lt;li&gt;Ping Wang attended AGU and talked to colleagues on AI outreach for Geosciences in Dec 2023.&lt;/li&gt;
+  &lt;li&gt;Ping Wang attended the NSF AISL Awardee Meeting between Dec 6-8, 2023.&lt;/li&gt;
+  &lt;li&gt;Ping Wang mentored student teams in NYC and San Jose, CA to create a series of AI-assisted creative works, including AI Optical Illusions since Sep 1, 2023.&lt;/li&gt;
+  &lt;li&gt;Ping Wang mentored student teams in NYC and San Jose, CA to create &lt;em&gt;From Hawaii to the Moon&lt;/em&gt; works in Dec 2023.&lt;/li&gt;
+  &lt;li&gt;Ping Wang has been organizing and conducting public lecture series, since Sep 1, 2023, co-funded by NSF and NASA Space Grant Consortium at UTK for which Dr. Nick Dygert is the Director.&lt;/li&gt;
+  &lt;li&gt;Ping Wang has been organizing and conducting public webinar series (weekly), since Sep 1, 2023, co-funded by NSF and NASA Space Grant Consortium at UTK for which Dr. Nick Dygert is the Director.&lt;/li&gt;
+  &lt;li&gt;Researchers, including Dr. Pengyu Hong and his PhD student Zhengyang Zhou, at Brandeis and Ping Wang at UTK have been preparing for summer-camp curriculum from September to December 2023.&lt;/li&gt;
+  &lt;li&gt;Project Kickoff Meeting was held on Monday, Sep 11, 4-5pm Eastern.&lt;/li&gt;
+  &lt;li&gt;Proposal #2314155 Collaborative Research: Cultivating Tomorrow’s Innovators Through Exploring Planetary Images with Artificial Intelligence was awarded by NSF on Aug 22, 2023.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 18 Feb 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2024/02/18/planet-ai-project-tracking/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/02/18/planet-ai-project-tracking/</guid>
+        
+        <category>projects</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>HiRISE Tutorial</title>
+        <description>&lt;p&gt;We will use the following Colab notebook to generate HiRISE images by training a diffusion model with a customized HiRISE dataset of Martian surface features.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;script src=&quot;https://gist.github.com/planet-ai-2023/a30167b68200ee43dcd9b2f0e6988dc0.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 31 Dec 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2023/12/31/hirise-tutorial/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/12/31/hirise-tutorial/</guid>
+        
+        <category>tutorials</category>
+        
+        <category>AI</category>
+        
+        <category>resources</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Butterfly Tutorial Series [2]</title>
+        <description>&lt;p&gt;We will use the following Colab notebook to generate butterfly images by training a diffusion model with Smithsonian’s butterfly dataset.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;script src=&quot;https://gist.github.com/planet-ai-2023/964360fccaab9e53d6a6ef2f318236b4.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Dec 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2023/12/30/butterfly_tutorial_series-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/12/30/butterfly_tutorial_series-2/</guid>
+        
+        <category>tutorials</category>
+        
+        <category>AI</category>
+        
+        <category>resources</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Butterfly Tutorial Series [1]</title>
+        <description>&lt;p&gt;Zhengyang Zhou, a PhD student at Brandeis University, developed the following computer vision tutorials with a curated butterfly dataset.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Butterlfy Dataset&lt;/strong&gt; &lt;br /&gt;
+Here’s the butterfly dataset you can download: &lt;br /&gt;
+&lt;a href=&quot;https://drive.google.com/file/d/15hGKEOjLIxWmmL6fBHguI2sKLKjYi78A/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;https://drive.google.com/file/d/15hGKEOjLIxWmmL6fBHguI2sKLKjYi78A/view?usp=sharing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Exploring the Following Colab Notebooks for Computer Vision Tasks&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1HfjGaiEI0TrF9AA0BbL57Bi8QUfucSmx/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;Classifying butterfly types in images&lt;/a&gt; &lt;br /&gt;
+This colab highlights the need for data augmentation and complex model structures as tasks become more intricate.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1Pz9JI-RmBeBoHFpDt7k48zFknb5Dhk14/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;Vision-Transformer for butterfly classification&lt;/a&gt; &lt;br /&gt;
+This Colab introduces the Transformer model family.&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Fri, 29 Dec 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2023/12/29/butterfly_tutorial_series-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/12/29/butterfly_tutorial_series-1/</guid>
+        
+        <category>tutorials</category>
+        
+        <category>AI</category>
+        
+        <category>resources</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

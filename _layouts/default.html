@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+
+<body>
+    {% if site.google-analytics %}
+      {% include google-analytics.html %}
+    {% endif %}
+    {% include header.html %}
+  
+      {{ content }} 
+
+    {%- include footer.html -%}
+    <script src="/assets/js/bootstrap.bundle.min.js"></script>
+ 
+</body>
+</html>

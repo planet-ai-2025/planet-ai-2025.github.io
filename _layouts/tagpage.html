@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<section class="py-3">
+  <div class="container">
+      <div class="row">
+          
+          <div class="section-title col-md-12 mt-3 mb-5">
+            <h1>Tag: {{ page.tag }}</h1>
+          </div>
+          
+          {% for post in site.tags[page.tag] %}
+            {% include postbox.html %}                
+          {% endfor %}
+          
+      </div>
+  </div>
+</section>
+

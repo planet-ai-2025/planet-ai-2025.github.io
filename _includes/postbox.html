@@ -1,0 +1,16 @@
+<div class=" col-12 col-md-4 col-lg-3 mb-3 gx-5">
+    <div class="card">
+        <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}"><img class = "card-img-top" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title }}"></a>      
+        <div class="card-body">
+            <h3 class="card-title"><a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+            <div class="article-tag">Tags: 
+                {% if post.tags.size >= 1 %}
+                    {% for tag in post.tags %}
+                    <a href="{{ site.baseurl }}/tag/{{tag}}" class="tag">{{ tag }}</a>
+                    {% endfor %}
+                {% else %} {% endif %}
+                </div>    
+        </div>
+        
+    </div>
+</div>
