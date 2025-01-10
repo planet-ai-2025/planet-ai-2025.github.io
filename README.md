@@ -1,1 +1,1 @@
-https://planet-ai-2023.github.io
+https://planet-ai-2025.github.io
