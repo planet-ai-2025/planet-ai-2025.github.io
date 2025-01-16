@@ -3,7 +3,7 @@ layout: post
 title:  "Colab Tutorial"
 date: 2024-06-01
 image: assets/images/colab_favicon_256px.png
-tags: [ AI, tutorials, resources, summer2024 ]
+tags: [ AI, tutorials, resources, summer2025 ]
 ---
 
 Google Colab is a free Jupyter notebook environment that runs in the cloud. You can use Google Colab from your browser so you don't have to install anything on your own computer. With Google Colab, you can access Google's computing resources, write and execture code, save and share.   

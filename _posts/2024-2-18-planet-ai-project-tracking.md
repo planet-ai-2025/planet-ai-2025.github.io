@@ -2,7 +2,7 @@
 layout: post
 title:  "Planet+AI Project Tracking"
 date: 2024-2-18
-image: assets/images/pt.png
+image: assets/images/17_sta.png
 tags: [ projects ]
 ---
 

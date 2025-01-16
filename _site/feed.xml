@@ -5,9 +5,72 @@
     <description>combining creativity with technology</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 10 Jan 2025 09:33:04 -0500</pubDate>
-    <lastBuildDate>Fri, 10 Jan 2025 09:33:04 -0500</lastBuildDate>
+    <pubDate>Thu, 16 Jan 2025 11:30:58 -0500</pubDate>
+    <lastBuildDate>Thu, 16 Jan 2025 11:30:58 -0500</lastBuildDate>
     <generator>Jekyll v4.3.4</generator>
+    
+      <item>
+        <title>Newsletter on 1/15/2025</title>
+        <description>&lt;p&gt;Dear friends,&lt;/p&gt;
+
+&lt;p&gt;Linear algebra is the language of AI/ML. In order to undersand the essential elements of AI/ML, data, algorithms, and compute, grasping the basic concepts in linear algebra, including vectors, matrices, linear transformations, is crucial.&lt;/p&gt;
+
+&lt;p&gt;This is why I wrote the booklet &lt;em&gt;Linear Algebra for High Dimensional Water Data and 3D Reconstruction of Porphyry&lt;/em&gt; for you. As a teenager, you are still developing your brains. I believe this is the cruicial time for you to grasp foundational knowledge for AI/ML, particularly vectors and matrices.&lt;/p&gt;
+
+&lt;p&gt;Here’s an exercise you might want to give a try.&lt;/p&gt;
+
+&lt;!---
+(&lt;object data=&quot;http://yoursite.com/the.pdf&quot; type=&quot;application/pdf&quot; width=&quot;700px&quot; height=&quot;700px&quot;&gt;
+    &lt;embed src=&quot;http://yoursite.com/the.pdf&quot;&gt;
+        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;http://yoursite.com/the.pdf&quot;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
+    &lt;/embed&gt;
+&lt;/object&gt;
+--&gt;
+
+&lt;!---
+&lt;object data=&quot;/assets/pdfs/exercises.pdf&quot; type=&quot;application/pdf&quot; width=&apos;100%&apos; height=&apos;1000&apos; class=&quot;img-fluid&quot;&gt;&lt;/object&gt;
+--&gt;
+
+&lt;object data=&quot;http://localhost:4000/_pdfs/Algebra_I_Reference_Sheet.pdf&quot; width=&quot;1000&quot; height=&quot;1000&quot; type=&quot;application/pdf&quot;&gt;&lt;/object&gt;
+
+&lt;iframe src=&quot;/assets/pdfs/exercises.pdf&quot; type=&quot;application/pdf&quot; width=&quot;100%&quot; height=&quot;100%&quot; style=&quot;border: none;&quot; class=&quot;img-fluid&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Mon, 13 Jan 2025 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2025/01/13/newsletter-01152025/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/01/13/newsletter-01152025/</guid>
+        
+        <category>newsletters</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Public Lecture Series on Linear Algebra</title>
+        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sat, January 18, 2024 7-8pm Eastern &lt;br /&gt;
+&lt;strong&gt;Location:&lt;/strong&gt; Online &lt;br /&gt;
+&lt;strong&gt;Registraton Link:&lt;/strong&gt; &lt;a href=&quot;https://tennessee.zoom.us/meeting/register/gnafJFRcQvuCawsddjyWpQ&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/meeting/register/gnafJFRcQvuCawsddjyWpQ&lt;/a&gt; &lt;br /&gt;
+&lt;strong&gt;Cost:&lt;/strong&gt; Free&lt;br /&gt;
+&lt;strong&gt;Details:&lt;/strong&gt;  &lt;br /&gt;
+We usually meet on Saturday 4pm Eastern over Zoom for meetings and discussions on &lt;em&gt;Linear Algebra for High Dimensional Water Data and 3D Reconstruction of Porphyry&lt;/em&gt;. All our Zoom meetings will be recorded. These meetings and discussions are totally seperate from our summer programs and PD workshops.&lt;/p&gt;
+
+&lt;p&gt;Our summer programs and PD workshops are for educational research purposes and each participant gets a stipend for attending our educational research; and because of that, we collect data for educational research only in our summer programs and PD workshops. During June 2024, 47 high school students from the Knoxville-Oak Ridge area participated in our summer program; and each of them got a stipend of $1,200 for attending our 3-week Planet+AI program (with 2 exceptions). Only US Citizens are eligible for our summer programs and PD workshops.&lt;/p&gt;
+
+&lt;p&gt;You can access the notes here: &lt;a href=&quot;https://drive.google.com/file/d/13gyuNkN7ihJWZcqTYulxYi6Xp1QuqZ3T/view?usp=sharing&quot;&gt;Linear Algebra for High Dimensional Water Data and 3D Reconstruction of Porphyry&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 02 Jan 2025 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2025/01/02/linalg/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/01/02/linalg/</guid>
+        
+        <category>events</category>
+        
+        
+      </item>
     
       <item>
         <title>Planet+AI Summer 2024</title>
@@ -153,11 +216,9 @@
         
         <category>AI</category>
         
-        <category>summer2024</category>
+        <category>summer2025</category>
         
         <category>projects</category>
-        
-        <category>planet</category>
         
         
       </item>
@@ -249,7 +310,7 @@ Click &lt;code&gt;Save&lt;/code&gt;.
         
         <category>resources</category>
         
-        <category>summer2024</category>
+        <category>summer2025</category>
         
         
       </item>
