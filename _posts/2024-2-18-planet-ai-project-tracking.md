@@ -7,6 +7,13 @@ tags: [ projects ]
 ---
 
 This article will be updated.
+
+- Feb 4, 2025, Short paper titled "Incorporating linear Algebra in an AI Literacy Curriculum in Informal and Formal Learning Settings" was accepted by ASEE.
+- Nov 2024- Feb 2025, Ping Wang organized public lecture series on Linear Algebra for AI/ML.
+- Nov 2024, Ping Wang and Shichun Huang submitted an abstract based on the first year progress to ASEE.
+- Oct 2024, Ping Wang and Shichun Huang went on a field trip in Norway with Stein Jacobsen at Harvard. Wang brought back porphyry rocks and pepared to include 3D reconstruction component based on this field trip in our future summer program.
+- Sep-Dec 2024, Ping Wang worked with program alumni on Linear Algebra tutorials which will be included in our summer program in 2025.
+- Aug 31, 2024, Ping Wang, Shichun Huang, and Nick Dygert all agreed that we should include an in-person component, particularly lab-visits, to our summer program in 2025.
 - July 31, 2024, Alice Zou led her team in a waterbot project and submitted an abstract to AGU2024, titled *Exploring Trace Element Fingerprinting in Water Samples with Artificial Intelligence*. The lab work was done in the UTK’s High Temperature geoCHemistry (HiTeCH) lab by using the state-of-the-art inductively coupled plasma mass spectrometry (ICP-MS) technique for trace element abundances. The team was mentored by Ping Wang, Dr. Shichun Huang and Dr. Brian Daniel Duggan.
 - June, 2024, Alice Zou, a program alunmni living in San Jose, led their DAISY group and submitted their project to NeurIPS2024. 
 - June 3- June 21, Planet+AI Summer 2024, 47 high school students completed the program. The team was mentored by Ping Wang.
