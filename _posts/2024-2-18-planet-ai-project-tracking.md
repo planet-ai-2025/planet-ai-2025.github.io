@@ -15,7 +15,7 @@ This article will be updated.
 - Sep-Dec 2024, Ping Wang worked with program alumni on Linear Algebra tutorials which will be included in our summer program in 2025.
 - Aug 31, 2024, Ping Wang, Shichun Huang, and Nick Dygert all agreed that we should include an in-person component, particularly lab-visits, to our summer program in 2025.
 - July 31, 2024, Alice Zou led her team in a waterbot project and submitted an abstract to AGU2024, titled *Exploring Trace Element Fingerprinting in Water Samples with Artificial Intelligence*. The lab work was done in the UTK’s High Temperature geoCHemistry (HiTeCH) lab by using the state-of-the-art inductively coupled plasma mass spectrometry (ICP-MS) technique for trace element abundances. The team was mentored by Ping Wang, Dr. Shichun Huang and Dr. Brian Daniel Duggan.
-- June, 2024, Alice Zou, a program alunmni living in San Jose, led their DAISY group and submitted their project to NeurIPS2024. 
+- June, 2024, Alice Zou, a program alunmni living in San Jose, led their DAISY group and submitted their project to NeurIPS2024. The team was mentored by Ping Wang. 
 - June 3- June 21, Planet+AI Summer 2024, 47 high school students completed the program. All participating students completed the program! And 45 students got paid by a stipend of $1,200 each.
 - April 25, 2024, We had a group meeting on the Planet+AI Summer Program.
 - April 2, 2024, Ping Wang, Professor Kwon from the Law School at UTK, and Principals at Austin East had a meeting together discussing how to recruit students from Austin East High.
