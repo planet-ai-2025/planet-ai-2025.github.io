@@ -1,2 +1,2 @@
 # planet-ai-2025.github.io
-planet+AI
+Https://planet-ai-2025.github.io
