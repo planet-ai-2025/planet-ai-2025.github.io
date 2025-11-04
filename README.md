@@ -1,2 +1,1 @@
-# planet-ai-2025.github.io
-Https://planet-ai-2025.github.io
+OCR-derived data from Apollo Era Legacy PDFs
