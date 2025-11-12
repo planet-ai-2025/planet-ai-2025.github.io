@@ -1,3 +1,3 @@
 1. <strong>OCR-Derived Datasets from Apollo Era Legacy PDFs</strong>: 11/1/2025
 2. <strong>A Semantic ML Pipeline for Olivine Geochemistry</strong>: 11/8/2025<br> Register here: [https://us06web.zoom.us/meeting/register/oLRkmJdkS665tER12Ul81Q](https://us06web.zoom.us/meeting/register/oLRkmJdkS665tER12Ul81Q)
-3. <strong>Demo of using ChandraOCR to work on prinz_science_1973 | data cleaning with Python on terrestrial olivine</strong>: 11/8/2025<br> Register here: [https://us06web.zoom.us/meeting/register/51591ZPBQzmH4N1jusd6HQ](https://us06web.zoom.us/meeting/register/51591ZPBQzmH4N1jusd6HQ)
+3. <strong>Demo of using ChandraOCR to work on prinz_science_1973 | data cleaning with Python on terrestrial olivine</strong>: 11/15/2025<br> Register here: [https://us06web.zoom.us/meeting/register/51591ZPBQzmH4N1jusd6HQ](https://us06web.zoom.us/meeting/register/51591ZPBQzmH4N1jusd6HQ)
