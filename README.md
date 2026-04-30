@@ -4,7 +4,8 @@
 4. <strong>Skewness in Terrestrial Olivine Data</strong>: 11/22/2025<br> Register here: [https://us06web.zoom.us/meeting/register/G8jHxuFUSMGTe8Hrg7iXoA](https://us06web.zoom.us/meeting/register/G8jHxuFUSMGTe8Hrg7iXoA)
 5. <strong>Lunar Olivine</strong>: 11/29/2025<br> Register here: [https://us06web.zoom.us/meeting/register/nbK-EWCTRqWpzl9tXwvQdA](https://us06web.zoom.us/meeting/register/nbK-EWCTRqWpzl9tXwvQdA)
 6. <strong>Terrestrial, Lunar & Ureilite Olivine</strong>: 12/6/2025<br> Register here: [https://us06web.zoom.us/meeting/register/S6SiusewRyes9vBn4PAqSg](https://us06web.zoom.us/meeting/register/S6SiusewRyes9vBn4PAqSg)
-6. <strong>Converting PDFs to Markdown Files (1)</strong>: 4/4/2026
-7. <strong>Converting PDFs to Markdown Files (2)</strong>: 4/11/2026
-8. <strong>Converting PDFs to Markdown Files (3)</strong>: 4/18/2026
-9. <strong>Petrographic Images in Lunar Thin Sections</strong>: 4/25/2026<br> Register here: [https://us06web.zoom.us/meeting/register/Hg3p2xB0QZK6jjmN_21idw](https://us06web.zoom.us/meeting/register/Hg3p2xB0QZK6jjmN_21idw)
+7. <strong>Converting PDFs to Markdown Files (1)</strong>: 4/4/2026
+8. <strong>Converting PDFs to Markdown Files (2)</strong>: 4/11/2026
+9. <strong>Converting PDFs to Markdown Files (3)</strong>: 4/18/2026
+10. <strong>Petrographic Images in Lunar Thin Sections</strong>: 4/25/2026<br> Register here: [https://us06web.zoom.us/meeting/register/Hg3p2xB0QZK6jjmN_21idw](https://us06web.zoom.us/meeting/register/Hg3p2xB0QZK6jjmN_21idw)
+11. <strong>Reading the Moon</strong>: 5/2/2026<br> Register here: [https://us06web.zoom.us/meeting/register/3NA9nldTStOO1vNdPSnzvQ](https://us06web.zoom.us/meeting/register/3NA9nldTStOO1vNdPSnzvQ)
